@@ -1,3 +1,5 @@
+import {cart} from '../data/cart.js';
+
 let productsHTML = '';
 // products eill be coming from data/products.js file
 products.forEach((product) => {
