@@ -2,7 +2,9 @@
 
 A static e-commerce web application simulation built with **Vanilla JavaScript**. This project mimics core functionalities of a shopping platform, including product browsing, cart management, checkout flow, and order tracking.
 
-<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/7f4a7f39-0144-4e9b-937a-51f9c85945e7" />
+
+https://github.com/user-attachments/assets/956314a2-9d07-4a2c-ac2b-7532d0c7f59d
+
 
 ## 🚀 About The Project
 This repository serves as a **hands-on playground** to practice advanced JavaScript concepts without relying on heavy frameworks. The focus is on understanding the underlying logic of modern web apps.
@@ -47,11 +49,6 @@ This project was built to strengthen the following skills:
 * **Asynchronous JavaScript:** Understanding Promises and callbacks (future implementation).
 * **Real-world Logic:** Handling currency (cents vs dollars), shipping dates, and tax calculations.
 
-## 🤝 Contributing & Extensions
-This project is open for educational purposes. Feel free to fork and try the following challenges:
-* [ ] Implement a search bar filter.
-* [ ] Add a backend API using Node.js/Express.
-* [ ] Refactor to use a framework like React or Vue.
 
 ## 🙏 Acknowledgements
 * Inspired by the **SuperSimpleDev** JavaScript Course.
